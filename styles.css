@@ -32,3 +32,8 @@ button {
 .search {
 	text-align: center;
 }
+
+.comment {
+	text-align: center;
+	text-color: #990000;
+}
